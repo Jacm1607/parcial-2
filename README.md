@@ -2,7 +2,7 @@
 
 1. Realizar el siguiente diseño en figma.
 
-![image](https://github.com/Jacm1607/parcial-2/assets/46409841/b181062e-0027-4b44-8276-3412a645c321)
+![image](img.png)
 
 > Se tiene que usar el `Frame (Phone)`.
 
